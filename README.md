@@ -5,7 +5,7 @@ A deep learning-based project to detect human emotions from facial expressions.
 ✅ Detects emotions like Happy, Sad, Angry, Neutral, Surprised, Fearful
 ✅ Uses OpenCV for real-time face detection
 ✅ Deep learning model trained on a facial emotion dataset
-✅ Supports both image and video input
+✅ Supports both image and video inputs
 
 📦 Installation
 1️⃣ Clone the repo (if using Git):
