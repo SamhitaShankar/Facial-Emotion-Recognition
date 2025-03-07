@@ -21,5 +21,5 @@ python FacialEmotionRecognition.py
 📚 Dependencies
 Python 3.x
 OpenCV
-TensorFlow / PyTorch (whichever is used)
+TensorFlow / PyTorch 
 NumPy
