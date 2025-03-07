@@ -1,25 +1,18 @@
 📌 Facial Emotion Recognition
-A deep learning-based project to detect human emotions from facial expressions.
+Detects facial emotions in real-time using OpenCV and the fer library.
 
 🛠 Features
-✅ Detects emotions like Happy, Sad, Angry, Neutral, Surprised, Fearful
-✅ Uses OpenCV for real-time face detection
-✅ Deep learning model trained on a facial emotion dataset
-✅ Supports both image and video input
+✅ Uses Haar cascades for face detection
+✅ Recognizes emotions like Happy, Sad, Angry, Neutral, etc.
+✅ Real-time webcam analysis
 
 📦 Installation
-1️⃣ Clone the repo (if using Git):
+1️⃣ Clone the repo:
 git clone https://github.com/your-username/FacialEmotionRecognition.git
 cd FacialEmotionRecognition
 
 2️⃣ Install dependencies:
-pip install -r requirements.txt
+pip install opencv-python imutils fer
 
-3️⃣ Run the model:
+3️⃣ Run the script:
 python FacialEmotionRecognition.py
-
-📚 Dependencies
-Python 3.x
-OpenCV
-TensorFlow / PyTorch 
-NumPy
